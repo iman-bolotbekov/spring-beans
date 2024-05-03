@@ -1,0 +1,20 @@
+# Maven specific
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE specific
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Compiled bytecode
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Dependency directories
+dependency/
